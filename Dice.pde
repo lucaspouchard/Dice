@@ -14,10 +14,10 @@
        bob.show();
       }
     }
-     String myString = String.valueOf(outsum);
+    
   fill(255,255,255);
   text("total =" ,150,365);
- text(myString ,190,365);
+ text(outsum ,190,365);
   }
   
   void mousePressed()
